@@ -29,7 +29,7 @@
 <section id="contato">
   <h2>Pronto para começar?</h2>
   <p>Preencha o formulário ou clique abaixo para falar com nosso time:</p>
-  <a href="https://central.dokehost.com.br/aff.php?aff=90" class="btn">Fale Conosco</a>
+  <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444" class="btn">Fale Conosco</a>
 </section>
 
 <section class="hero">
